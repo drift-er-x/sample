@@ -1,2 +1,2 @@
-def sample():
-    pass
+def sample(x,y):
+    return x+y
