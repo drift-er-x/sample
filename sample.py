@@ -1,2 +1,2 @@
-def sample(x,y):
-    return x+y
+def sample(x,y,z):
+    return x+y+z
